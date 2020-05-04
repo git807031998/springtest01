@@ -2,6 +2,10 @@ package com.zhangjing.spring.helloworld;
 
 public class Person {
 
+	/**
+	 * 构造函数
+	 * @param name
+	 */
 	public Person(String name) {
 		super();
 		this.name = name;
@@ -9,6 +13,9 @@ public class Person {
 
 	
 
+	/**
+	 * 无参构造函数
+	 */
 	public Person() {
 		super();
 		// TODO Auto-generated constructor stub
