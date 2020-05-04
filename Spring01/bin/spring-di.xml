@@ -6,7 +6,7 @@
 	<bean id="car" class="com.zhangjing.spring.helloworld.Car">
 		<property name="brand" value="丰田"></property>
 		<property name="crop" value="广汽"></property>
-		<property name="price" value="100000"></property>
+		<property name="price" value="300000"></property>
 	</bean>
 
 </beans>
